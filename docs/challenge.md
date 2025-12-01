@@ -72,3 +72,15 @@ I think the correct approach is to address class imbalance, and to do so, we can
 - Finally, it would be interesting to add DALL-E or another tool that can generate variations of an image.
 
 - After data augmentation, accuracy will increase; however, the focus is on the F-score, which is a combination of accuracy and recall.
+
+### Part II Deploy the model in an API with FastAPI using the api.py file..... 
+DONE
+
+### Part III Part III Deploy the API in your favorite cloud provider (we recomend to use GCP).
+Partially completed. The package was created, but errors occurred while trying to send it and obtain the URL.
+
+## PART IV Deploy the API in your favorite cloud provider (we recomend to use GCP).
+MISSED
+
+
+
