@@ -1,0 +1,26 @@
+{
+  "metrics/mAP50-95(B)": 0.061574364842703955,
+  "metrics/mAP50(B)": NaN,
+  "nc": 17,
+  "classes": [
+    "car",
+    "cardboard box",
+    "forklift",
+    "freight container",
+    "gloves",
+    "helmet",
+    "ladder",
+    "license plate",
+    "person",
+    "qr code",
+    "road sign",
+    "safety vest",
+    "traffic cone",
+    "traffic light",
+    "truck",
+    "van",
+    "wood pallet"
+  ],
+  "epochs": 5,
+  "imgsz": 320
+}
